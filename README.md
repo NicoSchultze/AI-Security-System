@@ -4,9 +4,7 @@
   <h3 align="center">AI Motion Detection </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    My most ambitious project so far!
     <br />
     <br />
   </p>
@@ -33,7 +31,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -63,9 +60,10 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The tech-stack of this project is not final, since it is still in its planning phase but here is an outlook on what to expect:
 
-* [![Next][Next.js]][Next-url]
+* Pytorch Torchvision for Object Detection
+* 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -128,17 +126,28 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Environment Setup
+  - [ ] Raspberry Pi and Camera Modul Configuraiton
+- [ ] Object Detection
+  - [ ] Leverage Existing Dataset
+  - [ ] Implement Model
+  - [ ] Training/Testing
+- [ ]  Facial Detection
+  - [ ] Create Dataset for known Humans
+  - [ ] Implement Model
+  - [ ] Training/Testing
+- [ ] Integration and Alerting
+  - [ ] Integrate Object and Facial Detection in Cohesive System
+  - [ ] Implement Alerting System (notification etc)
+- [ ] Web-Interface
+  - [ ] Build Backend 
+  - [ ] Build Frontend
+- [ ] Testing and Optimization
+- [ ] Dockerization
+- [ ] Deployment
+    
+- [ ] (Possible Android App Implementation)
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -147,8 +156,6 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 Nico Schultze - nico.schultze97@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 

@@ -44,6 +44,7 @@ Welcome to my Facial Recognition Security System project! This project aims to p
 
 ### Facial Detection and Recognition
 Our system utilizes advanced computer vision techniques to detect and recognize human faces captured by surveillance cameras installed at the premises. Through the integration of deep learning models, we can accurately identify individuals in real-time.
+
 <img src="https://github.com/NicoSchultze/AI-Security-System/assets/87664933/0e92fa48-6fce-4061-8a36-7e5be8fbab6c" alt="Facial Detection" style="width: 600px; height: 400px;">
 
 ### Object Detection

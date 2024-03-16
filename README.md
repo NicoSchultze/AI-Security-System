@@ -40,16 +40,33 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Welcome to my Facial Recognition Security System project! This project aims to provide an intelligent and efficient security solution for monitoring and securing residential properties using facial recognition technology.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Facial Detection and Recognition: Our system utilizes advanced computer vision techniques to detect and recognize human faces captured by surveillance cameras installed at the premises. Through the integration of deep learning models, we can accurately identify individuals in real-time.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+<div style="text-align:center;">
+    <img src="https://github.com/NicoSchultze/AI-Security-System/assets/87664933/0e92fa48-6fce-4061-8a36-7e5be8fbab6c" alt="Image" style="width: 600px; height: 400px;">
+</div>
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Object Detection: In addition to facial recognition, the system includes object detection capabilities to identify and track various objects of interest such as humans, animals, or vehicles. This enhances the overall security monitoring capability, allowing for comprehensive surveillance.
+
+<div style="text-align:center;">
+    <img src="https://github.com/NicoSchultze/AI-Security-System/assets/87664933/9c10ad22-6d1a-470c-aaa1-aaece900bec6" alt="Image" style="width: 600px; height: 400px;">
+</div>
+
+Live Feed Web Interface: Users can access a user-friendly web interface to view live camera feeds from the surveillance system. The interface overlays detection and recognition results, providing real-time insights into the detected objects and recognized faces.
+
+<div style="text-align:center;">
+    <img src="https://github.com/NicoSchultze/AI-Security-System/assets/87664933/d9390980-c305-4fab-97ee-3e3a157d6b03" alt="Image" style="width: 600px; height: 400px;">
+</div>
+
+Alerting and Notification: The system is equipped with alerting mechanisms to notify users of any suspicious activities or unrecognized individuals detected on the premises. This ensures prompt action can be taken in response to potential security threats.
+
+<div style="text-align:center;">
+    <img src="https://github.com/NicoSchultze/AI-Security-System/assets/87664933/a6c7bd7a-60cd-4e3d-9036-d079b0855010" alt="Image" style="width: 600px; height: 400px;">
+</div>
+
 
 Use the `BLANK_README.md` to get started.
 

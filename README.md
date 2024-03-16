@@ -30,7 +30,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -54,7 +53,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -63,18 +61,13 @@ Use the `BLANK_README.md` to get started.
 The tech-stack of this project is not final, since it is still in its planning phase but here is an outlook on what to expect:
 
 * Pytorch Torchvision for Object Detection
-* 
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+* OpenCV for Facial Detection and Recognition
+* Node.js as Runtime Environment
+* Express.js for Backend
+* React.js for Frontend
+* MongoDB as the Database
+* Docker for Containerization
+  
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -108,18 +101,12 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project will be used as a security system for a client. It will be deployed in the house entrance of a suburbian region in Germany. It is supposed to observe the entrance area and detect objects/animals/humans who are in that area. Furthermore, a facial recognition model will pin down on who exactly is entering and if that person is a known member of the family/friends etc. Depending on that decision notifications can be send out to family members. Also the camera video will be interactable with on a web-interface. 
 
 
 

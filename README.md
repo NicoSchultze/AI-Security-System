@@ -123,8 +123,8 @@ This project will be used as a security system for a client. It will be deployed
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Environment Setup
-  - [ ] Raspberry Pi and Camera Modul Configuraiton
+- [x] Environment Setup
+  - [x] Raspberry Pi and Camera Modul Configuraiton
 - [ ] Object Detection
   - [ ] Leverage Existing Dataset
   - [ ] Implement Model
